@@ -6,4 +6,4 @@ Olá tudo bem ? 😀
 
 👨‍💻 Experiência com: HTML CSS JS Bootstrap
 
-Fique á vontade para olhar meus repositórios, grato pela atenção!  🙌 
+Fique á vontade para olhar meus projetos, grato pela atenção!  🙌 
