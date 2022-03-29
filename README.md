@@ -4,6 +4,6 @@ Olá tudo bem ? 😀
 
 🔧 FrameWork mais utilizado: Visual Studio Code
 
-👨‍💻 Experiência com: HTML CSS JS Bootstrap
+👨‍💻 Experiência com: HTML CSS JS Bootstrap e Angular
 
 Fique á vontade para olhar meus projetos, grato pela atenção!  🙌 
