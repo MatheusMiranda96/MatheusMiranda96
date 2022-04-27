@@ -4,6 +4,6 @@ Olá tudo bem ? 😀
 
 🔧 IDE mais utilizada: Visual Studio Code
 
-👨‍💻 Experiência com: HTML CSS JS Bootstrap e Angular
+👨‍💻 Experiência com: HTML CSS JS TS Angular Springboot. 
 
 Fique á vontade para olhar meus projetos, grato pela atenção!  🙌 
