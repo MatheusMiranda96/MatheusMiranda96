@@ -1,7 +1,7 @@
 Olá tudo bem ? 😀 
 
-💼 Sou um profissional tentando entrar no mercado de Desenvolvimento (Front-end e Back-end)
-   Atualmente estou cursando Análise e Desenvolvimento de Sistemas.
+💼 Sou um profissional tentando entrar no mercado de Desenvolvimento (Front-end e Back-end),
+   atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
 🔧 Utilizo o Visual Studio Code como ambiente de desenvolvimento
 
