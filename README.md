@@ -5,6 +5,6 @@ Olá tudo bem ? 😀
 
 🔧 Utilizo o Visual Studio Code como ambiente de desenvolvimento
 
-👨‍💻 Experiência com: HTML CSS JS TS React, Bootstrap e Springboot.
+👨‍💻 Experiência com: HTML CSS JS JSX TS React, Bootstrap e Springboot.
 
 Fique á vontade para olhar meus projetos, grato pela atenção!  🙌 
